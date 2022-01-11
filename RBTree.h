@@ -3,7 +3,7 @@
 *  website: antonamstadt.com
 */
 
-#ifndef GENERIC_RBTREE_Hr
+#ifndef GENERIC_RBTREE_H
 #define GENERIC_RBTREE_H
 
 #include <iostream>
