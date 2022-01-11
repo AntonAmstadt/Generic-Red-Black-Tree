@@ -5,4 +5,4 @@ that can use the following operators: < , == , ostream operator<<
 
 The RBTree class is declared and defined in RBTree.h.
 
-mainRBTree.cpp tests the class, and demonstrates how the public functions are called from a class object.
+mainRBT.cpp tests the class, and demonstrates how the public functions are called from a class object.
